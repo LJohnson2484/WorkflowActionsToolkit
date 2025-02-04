@@ -8,10 +8,7 @@
   <a href="https://github.com/actions/toolkit/actions?query=workflow%3Atoolkit-audit"><img alt="Toolkit audit status" src="https://github.com/actions/toolkit/workflows/toolkit-audit/badge.svg"></a>
 </p>
 
-<p align="center">
-     <a href="https://docs.github.com/en/actions/writing-workflows">
-</a>
-</p>
+["https://docs.github.com/en/actions/writing-workflows"](url)
 
 ## GitHub Actions Toolkit
 
